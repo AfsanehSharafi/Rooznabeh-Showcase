@@ -52,11 +52,8 @@ The backend follows Clean Architecture, separating the solution into layers:
 CQRS is used to separate read and write operations, making the system more scalable and maintainable. DDD patterns are applied in the Domain layer to model business logic.
 
 ## 📸 Screenshots
+soon..
 
-(Place your application screenshots here. For example:)
-
-![Home Page](images/home.png)
-![Ad Detail](images/ad-detail.png)
 
 ## 🔒 Source Code
 
